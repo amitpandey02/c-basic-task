@@ -1,0 +1,8 @@
+C:\c sharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+C:\c sharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\c sharp\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\c sharp\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\c sharp\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\c sharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\c sharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb

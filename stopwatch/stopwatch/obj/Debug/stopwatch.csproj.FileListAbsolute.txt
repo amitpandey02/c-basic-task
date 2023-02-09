@@ -1,0 +1,8 @@
+C:\c sharp\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\c sharp\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\c sharp\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\c sharp\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.AssemblyReference.cache
+C:\c sharp\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.CoreCompileInputs.cache
+C:\c sharp\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\c sharp\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
