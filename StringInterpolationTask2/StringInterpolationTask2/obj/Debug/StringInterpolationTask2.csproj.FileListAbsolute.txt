@@ -1,0 +1,8 @@
+C:\c sharp\StringInterpolationTask2\StringInterpolationTask2\bin\Debug\StringInterpolationTask2.exe.config
+C:\c sharp\StringInterpolationTask2\StringInterpolationTask2\bin\Debug\StringInterpolationTask2.exe
+C:\c sharp\StringInterpolationTask2\StringInterpolationTask2\bin\Debug\StringInterpolationTask2.pdb
+C:\c sharp\StringInterpolationTask2\StringInterpolationTask2\obj\Debug\StringInterpolationTask2.csproj.AssemblyReference.cache
+C:\c sharp\StringInterpolationTask2\StringInterpolationTask2\obj\Debug\StringInterpolationTask2.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\StringInterpolationTask2\StringInterpolationTask2\obj\Debug\StringInterpolationTask2.csproj.CoreCompileInputs.cache
+C:\c sharp\StringInterpolationTask2\StringInterpolationTask2\obj\Debug\StringInterpolationTask2.exe
+C:\c sharp\StringInterpolationTask2\StringInterpolationTask2\obj\Debug\StringInterpolationTask2.pdb
