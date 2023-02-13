@@ -1,0 +1,8 @@
+C:\c sharp\Ref_Out\Ref_Out\obj\Debug\Ref_Out.csproj.AssemblyReference.cache
+C:\c sharp\Ref_Out\Ref_Out\obj\Debug\Ref_Out.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\Ref_Out\Ref_Out\obj\Debug\Ref_Out.csproj.CoreCompileInputs.cache
+C:\c sharp\Ref_Out\Ref_Out\bin\Debug\Ref_Out.exe.config
+C:\c sharp\Ref_Out\Ref_Out\bin\Debug\Ref_Out.exe
+C:\c sharp\Ref_Out\Ref_Out\bin\Debug\Ref_Out.pdb
+C:\c sharp\Ref_Out\Ref_Out\obj\Debug\Ref_Out.exe
+C:\c sharp\Ref_Out\Ref_Out\obj\Debug\Ref_Out.pdb
