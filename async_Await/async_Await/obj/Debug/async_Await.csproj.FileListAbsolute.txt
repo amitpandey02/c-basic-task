@@ -1,0 +1,8 @@
+C:\c sharp\async_Await\async_Await\bin\Debug\async_Await.exe.config
+C:\c sharp\async_Await\async_Await\bin\Debug\async_Await.exe
+C:\c sharp\async_Await\async_Await\bin\Debug\async_Await.pdb
+C:\c sharp\async_Await\async_Await\obj\Debug\async_Await.csproj.AssemblyReference.cache
+C:\c sharp\async_Await\async_Await\obj\Debug\async_Await.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\async_Await\async_Await\obj\Debug\async_Await.csproj.CoreCompileInputs.cache
+C:\c sharp\async_Await\async_Await\obj\Debug\async_Await.exe
+C:\c sharp\async_Await\async_Await\obj\Debug\async_Await.pdb
