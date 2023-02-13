@@ -1,0 +1,8 @@
+C:\c sharp\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\IEnumerable_IEnumerator.exe.config
+C:\c sharp\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\IEnumerable_IEnumerator.exe
+C:\c sharp\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\IEnumerable_IEnumerator.pdb
+C:\c sharp\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\IEnumerable_IEnumerator.csproj.AssemblyReference.cache
+C:\c sharp\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\IEnumerable_IEnumerator.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\IEnumerable_IEnumerator.csproj.CoreCompileInputs.cache
+C:\c sharp\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\IEnumerable_IEnumerator.exe
+C:\c sharp\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\Debug\IEnumerable_IEnumerator.pdb
