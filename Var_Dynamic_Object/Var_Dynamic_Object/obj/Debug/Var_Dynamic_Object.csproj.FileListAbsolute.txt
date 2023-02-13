@@ -1,0 +1,8 @@
+C:\c sharp\Var_Dynamic_Object\Var_Dynamic_Object\bin\Debug\Var_Dynamic_Object.exe.config
+C:\c sharp\Var_Dynamic_Object\Var_Dynamic_Object\bin\Debug\Var_Dynamic_Object.exe
+C:\c sharp\Var_Dynamic_Object\Var_Dynamic_Object\bin\Debug\Var_Dynamic_Object.pdb
+C:\c sharp\Var_Dynamic_Object\Var_Dynamic_Object\obj\Debug\Var_Dynamic_Object.csproj.AssemblyReference.cache
+C:\c sharp\Var_Dynamic_Object\Var_Dynamic_Object\obj\Debug\Var_Dynamic_Object.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\Var_Dynamic_Object\Var_Dynamic_Object\obj\Debug\Var_Dynamic_Object.csproj.CoreCompileInputs.cache
+C:\c sharp\Var_Dynamic_Object\Var_Dynamic_Object\obj\Debug\Var_Dynamic_Object.exe
+C:\c sharp\Var_Dynamic_Object\Var_Dynamic_Object\obj\Debug\Var_Dynamic_Object.pdb
